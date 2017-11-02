@@ -15,5 +15,7 @@ export default {
 }
 </script>
 <style>
-
+#foot{
+width:100%;
+}
 </style>
